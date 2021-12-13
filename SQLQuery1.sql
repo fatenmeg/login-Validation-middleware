@@ -1,0 +1,1 @@
+﻿select * from Tokens where tokenValue = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2Mjc4MzA3MzEsImlzcyI6IkZhdGVuIiwiYXVkIjoiRmF0ZW4ifQ.dyycJi4aoaHELbR-EIgWy9X_umXQM1fwYweYCXe7GEs'
